@@ -13,13 +13,13 @@ weekly_earnings.json however was a mess that needed cleaning. I removed all the 
 #### •	Compare the house price trend after 2005 with actual benchmark prices in table real_estate_prices to see if there are any differences.
 
 ---
-Range of house price trend: 78.81-100.86 = 22.6
+-Range of housing index trend data: 78.81-100.86 = 22.6
 
-Range of actual benchmark prices: 104.4 -245.5 = 141.1
+-Range of actual benchmark price index data: 104.4 -245.5 = 141.1
 
-It’s interesting to note that the range of the actual benchmark prices is far greater than the range of the house price trend.
-Housing prices increased much faster than expected in the trend, 16 times faster in fact.
-This is visually noticeable on the line graphs by seeing how much steeper the actual prices line is vs the benchmark line.
+It’s interesting to note that the range of the actual benchmark prices is far greater than the range of the housing index trend data.
+Housing prices increased much faster than the trend predicted, 16 times faster in fact.
+This is easily visually noticeable on the graphs below by seeing how much steeper the benchmark price index line is vs the trend index data.
 
 #### •	Compare this trend with the trend of office prices. Which one is getting more expensive, faster?
 
