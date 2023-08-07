@@ -47,6 +47,7 @@ Prices between different districts are changing at different rates.
 However by 2020 they all show a very strong upwards trend.
 
 #### •	Compare the trend of house prices with earnings. *In case you want to plot monthly salary, be aware that the earnings value is per week.
+![image](https://github.com/Christopher-DSA/Final-Project-Tableau/assets/132075292/f8e22042-2504-455e-a798-0c4d4da25789)
 
 ---
 2005-2015
