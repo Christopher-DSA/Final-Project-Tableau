@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-The goal is to analyze and make connections between housing prices and the ways people spend their money.
+The goal is to analyze and make connections between housing prices, consumer spending and the average Candadians earnings.
 
 ## Process
 ### Step 1: Connecting Data Sources to Tableau
