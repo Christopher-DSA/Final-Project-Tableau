@@ -44,7 +44,7 @@ Prices between different districts are changing at different rates.
 1.	Barrie (fastest)
 2.	Guelph (2nd fastest)
 3.	Quint, Simcoe, Tilsonburg (tied)
-However by 2020, they all end up being much higher than in 2014.
+However by 2020 they all show a very strong upwards trend.
 
 #### •	Compare the trend of house prices with earnings. *In case you want to plot monthly salary, be aware that the earnings value is per week.
 
