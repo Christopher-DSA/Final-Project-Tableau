@@ -62,9 +62,11 @@ The average single family home price has increased by 297% from 2005-2015 and th
 
 ---
 
-![image](https://github.com/Christopher-DSA/Final-Project-Tableau/assets/132075292/815384cf-a740-4aff-921d-1b4eb989afc0)
 
 #### •	Did people spend more of their earnings in 2014 than they did in 2001?
+
+![image](https://github.com/Christopher-DSA/Final-Project-Tableau/assets/132075292/815384cf-a740-4aff-921d-1b4eb989afc0)
+
 2001 Consumer Spend Index: 66.16
 2014 Consumer Spend Index: 97.88
 
