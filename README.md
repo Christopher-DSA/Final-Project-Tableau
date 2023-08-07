@@ -8,10 +8,18 @@ The goal is to analyze and make connections between housing prices and the ways 
 For all files except one this process was a simple drag and drop.
 weekly_earnings.json however was a mess that needed cleaning. I removed all the unrelated information from the json file and was left with just the information I needed to analyze the weekly_earnings of canadians over the years.
 
-### (your step 2)
+### 
 
 ## Results
 I chose option 1: Standard Final Project.
+
+Data Sources I used.
+Weekly earnings from 1.1.2001 to 15.4.2015 (weekly_earnings - CSV)
+Housing constructions from 1955 to 2019 (real_estate_numbers - CSV)
+House prices from 1.1.2005 to 1.9.2020 (real_estate_prices - EXCEL)
+Housing_price_index from November 1979 to September 2020
+Office_realestate_index from November 1979 to September 2020
+Consumer index from November 1979 to September 2020
 (discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
 
 ## Challenges 
