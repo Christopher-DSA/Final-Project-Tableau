@@ -8,7 +8,11 @@ The goal is to analyze and make connections between housing prices and the ways 
 For all files except one this process was a simple drag and drop.
 weekly_earnings.json however was a mess that needed cleaning. I removed all the unrelated information from the json file and was left with just the information I needed to analyze the weekly_earnings of canadians over the years.
 
-### 
+### Step 2: Answering questions with the data.
+
+
+### Step 3: Interesting pattern, trend or outlier from the data.
+
 
 ## Results
 I chose option 1: Standard Final Project.
