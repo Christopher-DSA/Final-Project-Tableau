@@ -24,10 +24,10 @@ This is easily visually noticeable on the graphs below by seeing how much steepe
 #### •	Compare this trend with the trend of office prices. Which one is getting more expensive, faster?
 
 ---
-Range of housing price index from 2005-2007: 104.44-130.92 = 51
-Range office price index from 2005-2007:  113.21-134.64 = 21.43
+*Range of benchmark housing price index from 2005-2007(2005) to 104.44-130.92(2007) = 51*
+*Range of office price index from 2005-2007:  113.21(2005) to 134.64(2007) = 21.43*
 
-Comparing the change in office prices to the change in housing prices, for the years where we have data for both the office index and the housing index, not many of the years overlap. So, from the years we do have to work with, 2005-2007. We can say that the office price is growing 42% faster over this time period.
+Comparing the change in office price index to the change in housing price index, not many of the years with data collected overlap. So, from the years we do have to work with, 2005-2007. We can say that the office price is growing 42% faster over this time period.
 
 #### •	Create a heatmap of Canada with current house prices for each available district.
 
