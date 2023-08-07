@@ -34,6 +34,9 @@ Comparing the change in office price index to the change in housing price index,
 
 ---
 
+![image](https://github.com/Christopher-DSA/Final-Project-Tableau/assets/132075292/3f1f2e32-8762-4c81-b844-e091f93a3ed1)
+
+
 #### •	Are the price differences between different districts increasing?
 
 ---
