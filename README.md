@@ -12,7 +12,7 @@ weekly_earnings.json however was a mess that needed cleaning. I removed all the 
 
 
 ### Step 3: Interesting pattern, trend or outlier from the data.
-
+As the years go on, consumer spending increase, housing prices increases and so does the average canadians monthly earnings. However the amount of money needed to purchase things is growing much quicker than the average earnings of a Canadian citizen.
 
 ## Results
 I chose option 1: Standard Final Project.
