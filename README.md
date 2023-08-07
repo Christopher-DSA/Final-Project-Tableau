@@ -4,7 +4,9 @@
 The goal is to analyze and make connections between housing prices and the ways people spend their money.
 
 ## Process
-### (your step 1)
+### Step 1: Connecting Data Sources to Tableau
+For all files except one this process was a simple drag and drop.
+weekly_earnings.json however was a mess that needed cleaning. I removed all the unrelated information from the json file and was left with just the information I needed to analyze the weekly_earnings of canadians over the years.
 
 ### (your step 2)
 
