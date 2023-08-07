@@ -25,6 +25,7 @@ This is easily visually noticeable on the graphs below by seeing how much steepe
 
 ---
 *Range of benchmark housing price index from 2005-2007(2005) to 104.44-130.92(2007) = 51*
+
 *Range of office price index from 2005-2007:  113.21(2005) to 134.64(2007) = 21.43*
 
 Comparing the change in office price index to the change in housing price index, not many of the years with data collected overlap. So, from the years we do have to work with, 2005-2007. We can say that the office price is growing 42% faster over this time period.
