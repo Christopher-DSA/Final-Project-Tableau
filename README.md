@@ -70,7 +70,9 @@ The average single family home price has increased by 297% from 2005-2015 and th
 2001 Consumer Spend Index: 66.16
 2014 Consumer Spend Index: 97.88
 
-Yes people do spend more of their earnings in 2014 than they did in 2001, about 32% more than back in 2001.
+Yes, people did spend more of their earnings in 2014 than they did in 2001, about 32% more than back in 2001.
+
+As a whole it seems as the years go on, consumers spend more of their earnings.
 
 
 ### Step 3: Interesting pattern, trend or outlier from the data.
