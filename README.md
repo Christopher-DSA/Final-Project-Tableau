@@ -10,6 +10,48 @@ weekly_earnings.json however was a mess that needed cleaning. I removed all the 
 
 ### Step 2: Answering questions with the data.
 
+#### •	Compare the house price trend after 2005 with actual benchmark prices in table real_estate_prices to see if there are any differences.
+Range of house price trend: 78.81-100.86 = 22.6
+
+Range of actual benchmark prices: 104.4 -245.5 = 141.1
+
+It’s interesting to note that the range of the actual benchmark prices is far greater than the range of the house price trend.
+Housing prices increased much faster than expected in the trend, 16 times faster in fact.
+This is visually noticeable on the line graphs by seeing how much steeper the actual prices line is vs the benchmark line.
+
+#### •	Compare this trend with the trend of office prices. Which one is getting more expensive, faster?
+Range of housing price index from 2005-2007: 104.44-130.92 = 51
+Range office price index from 2005-2007:  113.21-134.64 = 21.43
+
+Comparing the change in office prices to the change in housing prices, for the years where we have data for both the office index and the housing index, not many of the years overlap. So, from the years we do have to work with, 2005-2007. We can say that the office price is growing 42% faster over this time period.
+
+#### •	Create a heatmap of Canada with current house prices for each available district.
+
+#### •	Are the price differences between different districts increasing?
+Prices between different districts are changing at different rates.
+1.	Barrie (fastest)
+2.	Guelph (2nd fastest)
+3.	Quint, Simcoe, Tilsonburg (tied)
+However by 2020, they all end up being much higher than in 2014.
+
+#### •	Compare the trend of house prices with earnings. *In case you want to plot monthly salary, be aware that the earnings value is per week.
+2005-2015
+Average Single Family Home Average Price Range: $291,938(2005)-$866,558(2015) = $574,620
+Average Monthly Income: $2947.00(2005)-$3814.00(2015) = $867
+
+#### Percentage income increase $:
+129% Increase in monthly income
+Percentage home price increase $:
+297% increase in average single family home price.
+
+The average single family home price has increased by 297% from 2005-2015 and the average monthly income has increased by 129%. The home price is increasing 168% faster than the average monthly income.
+
+#### •	Did people spend more of their earnings in 2014 than they did in 2001?
+2001 Consumer Spend Index: 66.16
+2014 Consumer Spend Index: 97.88
+
+Yes people do spend more of their earnings in 2014 than they did in 2001, about 32% more than back in 2001.
+
 
 ### Step 3: Interesting pattern, trend or outlier from the data.
 As the years go on, consumer spending increase, housing prices increases and so does the average canadians monthly earnings. However the amount of money needed to purchase things is growing much quicker than the average earnings of a Canadian citizen.
