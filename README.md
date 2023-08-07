@@ -46,20 +46,19 @@ Prices between different districts are changing at different rates.
 3.	Quint, Simcoe, Tilsonburg (tied)
 However by 2020 they all show a very strong upwards trend.
 
-#### •	Compare the trend of house prices with earnings. *In case you want to plot monthly salary, be aware that the earnings value is per week.
+#### •	Compare the trend of house prices with earnings.
 ![image](https://github.com/Christopher-DSA/Final-Project-Tableau/assets/132075292/f8e22042-2504-455e-a798-0c4d4da25789)
 
 ---
-2005-2015
-Average Single Family Home Average Price Range: $291,938(2005)-$866,558(2015) = $574,620
-Average Monthly Income: $2947.00(2005)-$3814.00(2015) = $867
+*2005-2015*
+*Average Single Family Home Average Price Range: $291,938(2005)-$866,558(2015) = $574,620*
+*Average Monthly Income: $2947.00(2005)-$3814.00(2015) = $867*
 
-Percentage income increase $:
-129% Increase in monthly income
-Percentage home price increase $:
-297% increase in average single family home price.
+-129% Increase in monthly income.
 
-The average single family home price has increased by 297% from 2005-2015 and the average monthly income has increased by 129%. The home price is increasing 168% faster than the average monthly income.
+-297% increase in average single family home price.
+
+The average single family home price has increased by 297% from 2005-2015 and the average monthly income has increased by 129% in the same time period. The home price is increasing 168% faster than the average Canadian monthly income.
 
 ---
 #### •	Did people spend more of their earnings in 2014 than they did in 2001?
