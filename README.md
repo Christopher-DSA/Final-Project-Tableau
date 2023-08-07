@@ -91,8 +91,8 @@ Housing_price_index from November 1979 to September 2020
 Office_realestate_index from November 1979 to September 2020
 Consumer index from November 1979 to September 2020
 
-Buisness context:
-People are spending more money than ever, now is a good time to be a merchant. Houses are more valuable than ever and the trend suggests this will continue, buying real estate at this time is favourable investment.
+Business context:
+People are spending more money than ever, now is a good time to be a merchant. Houses are more valuable than ever and the trend suggests this will continue, buying real estate at this time is favorable investment.
 
 ## Challenges 
 Trying to import the json file into tableau was tricky, however I was able to use Python and the json library to clean the data and get it ready for analysis.
