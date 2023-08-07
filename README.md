@@ -78,6 +78,8 @@ As a whole it seems as the years go on, consumers spend more of their earnings.
 ### Step 3: Interesting pattern, trend or outlier from the data.
 As the years go on, consumer spending increase, housing prices increases and so does the average canadians monthly earnings. However the amount of money needed to purchase things is growing much quicker than the average earnings of a Canadian citizen.
 
+Another interesting outlier is between 1982 and 1983, the consumer spending index has grown massively compared to any other 1 year interval.
+
 ## Results
 I chose option 1: Standard Final Project.
 
